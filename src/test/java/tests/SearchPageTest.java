@@ -1,2 +1,4 @@
-package tests;public class SearchPageTest {
+package tests;
+
+public class SearchPageTest {
 }

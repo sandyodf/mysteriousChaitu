@@ -1,2 +1,4 @@
-package tests;public class PIPTest {
+package tests;
+
+public class PIPTest {
 }
